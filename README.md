@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jeudi Rivas 👋</h1>
+<h1 align="center">Hi there</h1>
 
 <p align="center">
   <a href="https://github.com/niceJRi">
