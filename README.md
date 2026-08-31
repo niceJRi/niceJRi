@@ -1,79 +1,61 @@
-<h1 align="center">Hi there</h1>
+<div align="center">
+
+# Jeudi Rivas
+
+### Full-Stack · Backend & Cloud · Mobile · Blockchain
+
+I build reliable, maintainable software—from polished user experiences to scalable APIs and cloud infrastructure.
+
+[![GitHub followers](https://img.shields.io/github/followers/niceJRi?label=Follow&style=for-the-badge&logo=github&color=0969da)](https://github.com/niceJRi?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=niceJRi&label=Profile+views&style=for-the-badge&color=0969da)
+
+</div>
+
+## About
+
+- Building across **web, mobile, backend, cloud, and blockchain**
+- Interested in **open-source products** with thoughtful architecture and measurable impact
+- Currently exploring **applied AI/ML** and **distributed systems**
+- I value clear communication, practical engineering, and code that stays easy to change
+
+## Core stack
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | TypeScript, React, Next.js, Vue, Angular, Tailwind CSS |
+| **Backend** | Node.js, NestJS, Python, Django, Go, GraphQL |
+| **Mobile** | Swift, Kotlin, Flutter, React Native |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, Nginx, Linux, GitHub Actions |
+| **Blockchain** | Solidity, smart contracts, Web3 integrations |
 
 <p align="center">
-  <a href="https://github.com/niceJRi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+Backend+Engineer;Mobile+%26+Blockchain+Builder;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,python,go,swift,kotlin,flutter,solidity,postgres,redis,aws,docker,kubernetes,linux,git&perline=9" alt="Core technology stack" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niceJRi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/niceJRi?tab=followers">
-    <img src="https://img.shields.io/github/followers/niceJRi?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
+## Open-source activity
 
----
+<div align="center">
 
-### 🧑‍💻 About me
+[![Commits](https://img.shields.io/badge/Commits-View_history-0969da?style=for-the-badge&logo=git)](https://github.com/search?q=author%3AniceJRi&type=commits)
+[![Pull requests](https://img.shields.io/badge/Pull_requests-View_history-8250df?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AniceJRi)
+[![Code reviews](https://img.shields.io/badge/Code_reviews-View_history-1f883d?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+reviewed-by%3AniceJRi)
+[![Issues](https://img.shields.io/badge/Issues-View_history-d1242f?style=for-the-badge&logo=github)](https://github.com/issues?q=is%3Aissue+author%3AniceJRi)
 
-- 🔭 Interested in contributing expertise across **web, app, cloud & blockchain** development
-- 🤝 Looking to collaborate on **innovative open-source projects**
-- 🌱 Always learning — currently exploring **AI/ML** and **distributed systems**
-- 📚 Love reading about personal development & financial literacy
-- ⚡ Fun fact: I believe clean code is a feature, not a luxury
+</div>
 
----
+GitHub's contribution calendar and activity overview on [my public profile](https://github.com/niceJRi) show my contribution history across commits, pull requests, reviews, and issues.
 
-### 🛠️ Languages and Tools
-
-<p align="center">
-
-#### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,go,php,c,cpp,cs,java,kotlin,swift,solidity,dart,html,css&perline=15" />
-
-#### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,flutter,android,xamarin&perline=15" />
-
-#### Backend & AI
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,laravel,rails,graphql,tensorflow,pytorch&perline=15" />
-
-#### Databases & Cloud / DevOps
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker,kubernetes,nginx,linux,git&perline=15" />
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=niceJRi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niceJRi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=niceJRi&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niceJRi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niceJRi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
+## Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niceJRi/niceJRi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niceJRi/niceJRi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/niceJRi/niceJRi/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/niceJRi/niceJRi/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/niceJRi">niceJRi</a> — thanks for visiting!</i></p>
+<div align="center">
+  <sub>Open to thoughtful collaboration and useful open-source work.</sub>
+</div>
